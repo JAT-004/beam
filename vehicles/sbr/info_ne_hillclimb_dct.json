@@ -1,0 +1,13 @@
+{
+  "Configuration":"Expert Hillclimb (DCT)",
+  "Description":"Expert",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"Turbo",
+  "Power":932,
+  "PowerPeakRPM":7700,
+  "Top Speed":80.0,
+  "Transmission":"DCT",
+  "Weight":1505,
+  "Weight/Power":1.614806866
+}
