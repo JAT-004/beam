@@ -1,0 +1,13 @@
+{
+  "Configuration":"Expert Rally (DCT)",
+  "Description":"Expert",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"Turbo",
+  "Power":382,
+  "PowerPeakRPM":7000,
+  "Top Speed":77.2222,
+  "Transmission":"DCT",
+  "Weight":1350,
+  "Weight/Power":3.534031413
+}
